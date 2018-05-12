@@ -10,6 +10,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15474#The-Mahabharata-of-Krishna-Dwaipayana-Vyasa-Volume-1Books-1-2-and-3
 gutenberg_issued: '2005-03-26'
 gutenberg_type: Text
 identifiers:
